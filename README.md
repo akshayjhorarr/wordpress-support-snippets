@@ -44,6 +44,13 @@ Useful for:
 - WordPress Hooks & Filters
 - WooCommerce APIs
 - Markdown Documentation
+## How to Use
+
+1. Install the Code Snippets plugin
+2. Copy the required snippet
+3. Paste into WordPress admin
+4. Activate safely on staging/local environment
+
 
 ## Future Improvements
 
