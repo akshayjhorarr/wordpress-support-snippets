@@ -51,5 +51,3 @@ Useful for:
 - Searchable snippet dashboard
 - Admin plugin interface
 - Snippet categorization system
-
-Repository maintained for WordPress support workflows.
