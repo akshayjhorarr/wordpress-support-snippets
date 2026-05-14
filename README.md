@@ -1,5 +1,6 @@
 
 
+
 # WordPress Support Snippets
 
 Collection of troubleshooting snippets and fixes for common WordPress and WooCommerce issues.
@@ -45,3 +46,19 @@ snippets/
 ├── performance/
 ├── cache/
 └── wp-config/
+
+## Project Structure
+
+```text
+security/
+ ├── disable-xmlrpc.php
+ └── disable-file-editor.php
+
+performance/
+ └── disable-emojis.php
+
+woocommerce/
+ └── remove-checkout-fields.php
+
+docs/
+ └── security-hardening.md
