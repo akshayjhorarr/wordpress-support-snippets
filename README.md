@@ -12,3 +12,23 @@ Collection of troubleshooting snippets and fixes for common WordPress and WooCom
 
 ## Purpose
 This repository contains useful WordPress support snippets, debugging notes, and troubleshooting examples commonly used during technical support workflows.
+
+## Features
+
+- WordPress troubleshooting snippets
+- WooCommerce issue fixes
+- Security hardening examples
+- Performance optimization tweaks
+- wp-config troubleshooting
+- Cache and plugin conflict fixes
+- Reusable technical support solutions
+
+## Folder Structure
+
+```text
+snippets/
+├── woocommerce/
+├── security/
+├── performance/
+├── cache/
+└── wp-config/
