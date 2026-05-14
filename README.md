@@ -1,3 +1,5 @@
+
+
 # WordPress Support Snippets
 
 Collection of troubleshooting snippets and fixes for common WordPress and WooCommerce issues.
@@ -23,6 +25,17 @@ This repository contains useful WordPress support snippets, debugging notes, and
 - Cache and plugin conflict fixes
 - Reusable technical support solutions
 
+## Folder Structure
+
+```text
+security/
+ └── disable-xmlrpc.php
+
+performance/
+ └── disable-emojis.php
+
+docs/
+ └── security-hardening.md
 ## Folder Structure
 
 ```text
